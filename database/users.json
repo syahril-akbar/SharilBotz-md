@@ -167,7 +167,7 @@
   "6281254835351@s.whatsapp.net": {
     "money": 0,
     "limit": 0,
-    "level_cache": 2,
+    "level_cache": 4,
     "level": 1,
     "role": "user",
     "achievement": "gamers",
@@ -177,7 +177,7 @@
       "alasan": null
     },
     "createdAt": "2025-07-11T00:47:19.868Z",
-    "updatedAt": "2025-07-11T02:56:36.761Z"
+    "updatedAt": "2025-07-11T03:00:50.519Z"
   },
   "6287845199696@s.whatsapp.net": {
     "money": 0,
@@ -242,7 +242,7 @@
   "6281347476806@s.whatsapp.net": {
     "money": 0,
     "limit": 0,
-    "level_cache": 2,
+    "level_cache": 3,
     "level": 1,
     "role": "user",
     "achievement": "gamers",
@@ -252,7 +252,7 @@
       "alasan": null
     },
     "createdAt": "2025-07-11T01:00:03.283Z",
-    "updatedAt": "2025-07-11T02:57:38.970Z"
+    "updatedAt": "2025-07-11T03:00:51.960Z"
   },
   "62882015225973@s.whatsapp.net": {
     "money": 0,
@@ -467,7 +467,7 @@
   "6281455086919@s.whatsapp.net": {
     "money": 0,
     "limit": 0,
-    "level_cache": 2,
+    "level_cache": 3,
     "level": 1,
     "role": "user",
     "achievement": "gamers",
@@ -477,7 +477,7 @@
       "alasan": null
     },
     "createdAt": "2025-07-11T02:57:38.148Z",
-    "updatedAt": "2025-07-11T02:58:08.413Z"
+    "updatedAt": "2025-07-11T03:00:50.274Z"
   },
   "6282398751741@s.whatsapp.net": {
     "money": 0,
@@ -508,5 +508,35 @@
     },
     "createdAt": "2025-07-11T02:59:55.705Z",
     "updatedAt": "2025-07-11T02:59:55.705Z"
+  },
+  "6285240117509@s.whatsapp.net": {
+    "money": 0,
+    "limit": 0,
+    "level_cache": 0,
+    "level": 1,
+    "role": "user",
+    "achievement": "gamers",
+    "status": "active",
+    "afk": {
+      "lastchat": 0,
+      "alasan": null
+    },
+    "createdAt": "2025-07-11T03:00:12.156Z",
+    "updatedAt": "2025-07-11T03:00:12.156Z"
+  },
+  "62895712574500@s.whatsapp.net": {
+    "money": 0,
+    "limit": 0,
+    "level_cache": 0,
+    "level": 1,
+    "role": "user",
+    "achievement": "gamers",
+    "status": "active",
+    "afk": {
+      "lastchat": 0,
+      "alasan": null
+    },
+    "createdAt": "2025-07-11T03:00:37.957Z",
+    "updatedAt": "2025-07-11T03:00:37.957Z"
   }
 }
