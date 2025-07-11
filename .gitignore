@@ -12,6 +12,3 @@ npm-debug.log
 yarn-error.log
 .pnpm-debug.log
 .env
-database/additional/totalchat.json
-database/users.json
-database/group.json
