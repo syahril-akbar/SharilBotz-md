@@ -1,6 +1,6 @@
 const menu = require('@DB/menu'); // pindah ke folder database menu.js
 
-const linkGroup = 'https://whatsapp.com/channel/0029VabMgUy9MF99bWrYja2Q';
+const linkGroup = 'https://chat.whatsapp.com/D999KJwICihDBSMI4QFzZd';
 const AUDIO_MENU = true;
 
 const fs          = require("fs");
@@ -98,7 +98,7 @@ ${Object.keys(menu).map(key => formatMenu(key.toUpperCase(), menu[key])).join('\
                 externalAdReply: {
                     showAdAttribution: false, 
                     title: `Halo ${pushName}`,
-                    body: `Resbot ${config.version}`,
+                    body: `SharilBotz ${config.version}`,
                     thumbnail: buffer,
                     jpegThumbnail: buffer, // tambahkan ini
                     thumbnailUrl: linkGroup,

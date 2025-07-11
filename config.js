@@ -19,19 +19,19 @@ Script **Autoresbot** resmi menjadi **Open Source** dan dapat digunakan secara g
 const moment       = require('moment-timezone');
 
 const CONNECTION   = 'pairing'; // qr atau pairing
-const OWNER_NAME   = 'Autoresbot';
-const NOMOR_BOT    = '6282287634351'; // 628xx nomor wa
-const DESTINATION  = 'group'; // group , private, both
+const OWNER_NAME   = 'SHARIL';
+const NOMOR_BOT    = '6282341810448'; // 628xx nomor wa
+const DESTINATION  = 'private'; // group , private, both
 const APIKEY       = ''; // apikey dari autoresbot.com (paket apikey)
 const RATE_LIMIT   = 3000; // 3 detik/chat
 const SIMILARITY   = true; // Pencarian kemiripan command (true, false)
 const MODE         = 'production'; // [production, development] (jangan di ubah kecuali anda developer)
 const VERSION      = global.version; // don't edit
 
-const EMAIL        = 'autoresbot@gmail.com';
+const EMAIL        = 'syahrilakbar63@gmail.com';
 const REGION       = 'Indonesia';
-const WEBSITE      = 'autoresbot.com';
-const DATA_OWNER   = ['6285246154386','628xxx']; // bisa juga edit di database/owner.json
+const WEBSITE      = 's.id/sharil-bot';
+const DATA_OWNER   = ['6282341810448','628xxx']; // bisa juga edit di database/owner.json
 
 // Konfiqurasi Chat
 const ANTI_CALL          = false; // jika true (setiap yang nelpon pribadi akan di block)
@@ -76,7 +76,7 @@ const config = {
     status_prefix       : true, // wajib prefix : atau false tanpa prefix
     prefix              : ['.','!','#'],
     sticker_packname    : OWNER_NAME,
-    sticker_author      : `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nYouTube: Azhari Creative\nOwner: 0852-4615-4386`,
+    sticker_author      : `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nSharilBotz\nOwner: 6282341810448`,
     mode                : MODE,
     commandSimilarity   : SIMILARITY,
     anticall            : ANTI_CALL,
